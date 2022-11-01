@@ -12,6 +12,7 @@ int main(void)
     }
     else{
 	printf("I am ")
+	printf("I am awesome")
 }
 
     printf("\n");
